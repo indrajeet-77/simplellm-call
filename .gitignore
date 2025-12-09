@@ -1,0 +1,13 @@
+# Python venv
+venv/
+.env/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# Local development settings
+*.env
+
+# VS Code settings
+.vscode/
